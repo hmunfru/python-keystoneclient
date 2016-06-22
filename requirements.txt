@@ -7,7 +7,7 @@ pbr>=0.11.1,<=1.8.1
 argparse
 Babel>=2.3.4
 iso8601>=0.1.11
-netaddr==0.7.13
+netaddr==0.7.18
 oslo.config==3.11.0
 oslo.context==2.5.0
 oslo.i18n==3.7.0
