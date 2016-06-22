@@ -27,4 +27,5 @@ except ImportError:
 
 setuptools.setup(
     setup_requires=['pbr'],
+    version='1.6.0.dev307',
     pbr=True)
