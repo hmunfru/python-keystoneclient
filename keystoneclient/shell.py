@@ -78,11 +78,6 @@ class OpenStackIdentityShell(object):
                             action='store_true',
                             help=argparse.SUPPRESS)
 
-        parser.add_argument('--version',
-                            action='version',
-                            version=keystoneclient.__version__,
-                            help="Shows the client version and exits.")
-
         parser.add_argument('--debug',
                             default=False,
                             action='store_true',
