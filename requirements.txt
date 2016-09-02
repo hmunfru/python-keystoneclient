@@ -8,12 +8,12 @@ argparse
 Babel>=2.3.4
 iso8601>=0.1.11
 netaddr==0.7.18
-oslo.config==3.11.0
+oslo.config>=3.11.0
 oslo.context==2.5.0
 oslo.i18n==3.7.0
 oslo.log==3.10.0
 oslo.serialization==2.9.0
-oslo.utils==3.13.0
+oslo.utils>=3.13.0
 prettytable==0.7.2
 requests
 six>1.9.0
